@@ -23,7 +23,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com',
+            'https://github.com/NguyenThai11103/DTU-Relieflink-documents',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -47,7 +47,7 @@ const config: Config = {
           label: 'Tutorial',
         },
         {
-          href: 'https://github.com',
+          href: 'https://github.com/NguyenThai11103/DTU-Relieflink-documents',
           label: 'GitHub',
           position: 'right',
         },
