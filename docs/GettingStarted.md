@@ -2,7 +2,7 @@
 ![s](../static/img/Reliefbanner.png)
 > *"💚 Ấn nút nhớ, thả hy vọng 🌿"*
 ## ☘️ ReliefLink
-- RELIEFLINK là một nền tảng tiên tiến phát triển bới đội DTU_DZ dựa trên LCDP trong cuộc thi [Phần Mềm Nguồn Mở-Olympic Tin học Sinh viên Việt Nam 2024](https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F)
+- *`RELIEFLINK`* là một nền tảng tiên tiến phát triển bới đội DTU_DZ dựa trên LCDP trong cuộc thi [Phần Mềm Nguồn Mở-Olympic Tin học Sinh viên Việt Nam 2024](https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F)
  nhằm hỗ trợ các khu vực chịu ảnh hưởng từ thiên tai, kết nối cộng đồng và quản lý quá trình cứu trợ.
 - Mục tiêu của một dự án cứu trợ khẩn cấp trong thiên tai là hỗ trợ nhanh chóng và hiệu quả để bảo vệ sinh mạng và tài sản của người dân. Dự án tập trung vào cung cấp nhu yếu phẩm như thực phẩm, nước uống, chỗ ở tạm thời và hỗ trợ y tế khẩn cấp, đồng thời đảm bảo an toàn cho cộng đồng qua các biện pháp sơ tán và tăng cường khả năng ứng phó trong các tình huống khẩn cấp.Dự án còn hướng đến nâng cao khả năng chống chịu của cộng đồng, chuẩn bị sẵn sàng đối phó với các thảm họa trong tương lai.
 ## 🗝️Các chức năng chính của dự án
@@ -79,7 +79,7 @@
 - **Đối với cộng đồng và người dân** : Tham gia vào các chương trình đào tạo và tập huấn về ứng phó thiên tai.Chủ động tìm hiểu về các biện pháp phòng tránh và ứng phó với thiên tai.Hỗ trợ lẫn nhau trong các tình huống khẩn cấp, đặc biệt là các nhóm dễ bị tổn thương như người già, trẻ em, và người khuyết tật.
 - **Đối với các doanh nghiệp và nhà đầu tư** : Hỗ trợ tài chính và công nghệ để phát triển và triển khai các giải pháp của dự án.Đóng góp vào các hoạt động cứu trợ và tái thiết như một phần của trách nhiệm xã hội doanh nghiệp.
 
-        RELIEFLINK không chỉ là một dự án hỗ trợ khẩn cấp mà còn là một lời kêu gọi hành động – hành động vì sự an toàn của cộng đồng, vì sự phát triển bền vững của đất nước, và vì tương lai của thế hệ mai sau.
+       *`RELIEFLINK`* không chỉ là một dự án hỗ trợ khẩn cấp mà còn là một lời kêu gọi hành động – hành động vì sự an toàn của cộng đồng, vì sự phát triển bền vững của đất nước, và vì tương lai của thế hệ mai sau.
 
 ## 🌏 Mục tiêu dài hạn của dự án 
 

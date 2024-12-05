@@ -1,8 +1,7 @@
-# Kiến trúc hệ thống
+# Kiến trúc phần mềm
 ## 🪜 Hệ thống
 Thiết kế theo kiến trúc như hình vẽ bên dưới:
 ![s](../static/img/Achitecture.png)
-
 
 
 
@@ -28,12 +27,12 @@ Thiết kế theo kiến trúc như hình vẽ bên dưới:
     - OpenStreetMap vẫn được tích hợp để hiển thị bản đồ, các địa điểm hoặc điểm quan tâm mà người dùng có thể tương tác. Các thao tác trên bản đồ sẽ sử dụng thư viện như Leaflet.js để xử lý, và dữ liệu sẽ được truy vấn từ MongoDB thông qua backend.
 
  ## 💥 Đặc điểm nổi bật của kiến trúc
-- **Tách biệt giao diện và xử lý dữ liệu** : Giao diện người dùng đơn giản, tập trung vào tính hiệu quả và dễ sử dụng, giúp nhanh chóng tiếp cận thông tin và các tính năng hỗ trợ trong tình huống thiên tai.
-- **Quản lý dữ liệu mạnh mẽ** : MongoDB lưu trữ và quản lý dữ liệu trong một cấu trúc linh hoạt, có thể mở rộng dễ dàng, đồng thời cho phép lưu trữ thông tin bản đồ.
-- **Hiệu quả**: Toàn bộ hệ thống tối ưu hóa hiệu quả xử lý và lưu trữ dữ liệu, tạo nên một môi trường làm việc và phát triển dễ dàng và nhanh chóng.
-- **Chi tiết** : Cung cấp thông tin chi tiết, đầy đủ và chính xác về mọi khía cạnh của tình hình thiên tai, giúp người dùng có cái nhìn toàn diện và đưa ra quyết định phù hợp.
-- **Mở rộng linh hoạt**: Dễ dàng mở rộng, có thể thêm nhiều thành phần hoặc tính năng mới mà không làm gián đoạn hệ thống hiện tại.
-- **Độ tin cậy**: Nhiều chức năng và cơ sở dữ liệu đảm bảo hệ thống hoạt động ổn định. 
+   - **Tách biệt giao diện và xử lý dữ liệu** : Giao diện người dùng đơn giản, tập trung vào tính hiệu quả và dễ sử dụng, giúp nhanh chóng tiếp cận thông tin và các tính năng hỗ trợ trong tình huống thiên tai.
+   - **Quản lý dữ liệu mạnh mẽ** : MongoDB lưu trữ và quản lý dữ liệu trong một cấu trúc linh hoạt, có thể mở rộng dễ dàng, đồng thời cho phép lưu trữ thông tin bản đồ.
+   - **Hiệu quả**: Toàn bộ hệ thống tối ưu hóa hiệu quả xử lý và lưu trữ dữ liệu, tạo nên một môi trường làm việc và phát triển dễ dàng và nhanh chóng.
+   - **Chi tiết** : Cung cấp thông tin chi tiết, đầy đủ và chính xác về mọi khía cạnh của tình hình thiên tai, giúp người dùng có cái nhìn toàn diện và đưa ra quyết định phù hợp.
+   - **Mở rộng linh hoạt**: Dễ dàng mở rộng, có thể thêm nhiều thành phần hoặc tính năng mới mà không làm gián đoạn hệ thống hiện tại.
+   - **Độ tin cậy**: Nhiều chức năng và cơ sở dữ liệu đảm bảo hệ thống hoạt động ổn định. 
 
 ## 🚀 Cách vận hành
 
