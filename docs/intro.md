@@ -63,11 +63,16 @@ Tối ưu hóa việc điều phối nguồn lực cứu hộ thông qua hệ th
 
 - **Các nhà nghiên cứu và chuyên gia trong lĩnh vực thảm họa và tái thiết**: Các nhà nghiên cứu, chuyên gia trong lĩnh vực thiên tai, cứu trợ và tái thiết sẽ sử dụng ứng dụng để thu thập dữ liệu, phân tích xu hướng thiệt hại và cải tiến các chiến lược phục hồi cho các thảm họa trong tương lai.
 
+## 📞 Liên hệ
+- Lê Thanh Trường       :  <u>thanhtruong23111999@gmail.com</u>
+- Võ Văn Việt           :  <u>vietvo371@gmail.com</u>
+- Nguyễn Ngọc Duy Thái  :  <u>kkdn011@gmail.com</u>
+
 ## 💡Nhà phát triển
 
-📧 Email: thanhtruong23111999@gmail.com
+- 📧 Email: thanhtruong23111999@gmail.com
 
-📱 Hotline: +84 376 659 652
+- 📱 Hotline: +84 376 659 652
 
 *" 🏫 DTU_DZ - DUY TAN UNIVERSITY - SCS ✨"*
 ### 📝 License

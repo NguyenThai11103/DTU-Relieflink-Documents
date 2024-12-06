@@ -98,7 +98,7 @@ Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở-Olym
 - Tối ưu hóa việc sử dụng nguồn lực địa phương
 - Nâng cao ý thức phòng chống thiên tai trong cộng đồng
 - Phát triển các phương pháp cứu trợ hiệu quả và bền vững
-### 🧠  Tích hợp công nghệ
+### 🤖  Tích hợp công nghệ
 - Hệ thống quản lý và dự báo tích hợp
 - Dẫn đường và chỉ dẫn
 

@@ -101,11 +101,15 @@ Với những tiềm năng này, dự án có thể trở thành một nền t�
 ## 🌿 Kỳ vọng tương lai
         -   Ứng dụng này hướng tới các mục tiêu xây dựng một hệ thống phản ứng nhanh chóng,cải thiện khả năng đánh giá và đáp ứng nhu cầu cứu trợ ngay khi thảm họa xảy ra, rút ngắn thời gian từ khi thảm họa bắt đầu đến khi hỗ trợ được cung cấp. hiệu quả và bền vững, giúp cộng đồng đối phó tốt hơn với các thảm họa.Hệ thống sẽ tìm cách phát triển các nguồn lực bền vững như các quỹ cứu trợ dài hạn, các sáng kiến tái thiết và phục hồi sau thiên tai, giúp cộng đồng nhanh chóng phục hồi sau thảm họa và có thể đối phó tốt hơn với thảm họa trong tương lai.Đóng góp một phần vào việc xây dựng cộng đồng.
 
+## 📞 Liên hệ
+- Lê Thanh Trường       :  <u>thanhtruong23111999@gmail.com</u>
+- Võ Văn Việt           :  <u>vietvo371@gmail.com</u>
+- Nguyễn Ngọc Duy Thái  :  <u>kkdn011@gmail.com</u>
+
 ## 💡Nhà phát triển
 
-📧 Email: thanhtruong23111999@gmail.com
-
-📱 Hotline: +84 376 659 652
+- 📧 Email: thanhtruong23111999@gmail.com
+- 📱 Hotline: +84 376 659 652
 
 *" 🏫 DTU_DZ - DUY TAN UNIVERSITY - SCS ✨"*
 ### 📝 License

@@ -25,7 +25,7 @@ const sidebars: SidebarsConfig = {
     
     {
       type: 'category',
-      label: 'Plugin của dự án 🔌',
+      label: 'Plugin 🔌',
       items: [
         'Plugins/mapconfig-plugin',
         'Plugins/validation-plugin',
