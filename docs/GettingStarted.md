@@ -1,6 +1,14 @@
 # Tổng quan
 ![s](../static/img/Reliefbanner.png)
 > *"💚 Ấn nút nhớ, thả hy vọng 🌿"*
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Truongpyeo/DTURelifeLink/blob/main/LICENSE)
+[![Open issues](https://img.shields.io/github/issues/Truongpyeo/DTURelifeLink.svg 'Open issues')](https://github.com/Truongpyeo/DTURelifeLink/issues)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr/Truongpyeo/DTURelifeLink.svg 'Open Pull Requests')](https://github.com/Truongpyeo/DTURelifeLink/pulls)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/Truongpyeo/DTURelifeLink.svg 'Commit activity')](https://github.com/Truongpyeo/DTURelifeLink/graphs/commit-activity)
+[![GitHub contributors](https://img.shields.io/github/contributors/Truongpyeo/DTURelifeLink.svg 'Github contributors')](https://github.com/Truongpyeo/DTURelifeLink/graphs/contributors)
+
+
 ## ☘️ ReliefLink
 - *`RELIEFLINK`* là một nền tảng tiên tiến phát triển bới đội DTU_DZ dựa trên LCDP trong cuộc thi [Phần Mềm Nguồn Mở-Olympic Tin học Sinh viên Việt Nam 2024](https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F)
  nhằm hỗ trợ các khu vực chịu ảnh hưởng từ thiên tai, kết nối cộng đồng và quản lý quá trình cứu trợ.

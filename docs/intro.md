@@ -5,11 +5,11 @@
 > *"💚 Ấn nút nhớ, thả hy vọng 🌿"*
 
 
-[![Github license](https://img.shields.io/github/license/CTU-LinguTechies/VN-Law-Advisor.svg 'Github license')](https://github.com/CTU-LinguTechies/VN-Law-Advisor/blob/master/LICENSE)
-[![Open issues](https://img.shields.io/github/issues/CTU-LinguTechies/VN-Law-Advisor.svg 'Open issues')](https://github.com/CTU-LinguTechies/VN-Law-Advisor/issues)
-[![Open Pull Requests](https://img.shields.io/github/issues-pr/CTU-LinguTechies/VN-Law-Advisor.svg 'Open Pull Requests')](https://github.com/CTU-LinguTechies/VN-Law-Advisor/pulls)
-[![Commit activity](https://img.shields.io/github/commit-activity/m/CTU-LinguTechies/VN-Law-Advisor.svg 'Commit activity')](https://github.com/CTU-LinguTechies/VN-Law-Advisor/graphs/commit-activity)
-[![GitHub contributors](https://img.shields.io/github/contributors/CTU-LinguTechies/VN-Law-Advisor.svg 'Github contributors')](https://github.com/CTU-LinguTechies/VN-Law-Advisor/graphs/contributors)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Truongpyeo/DTURelifeLink/blob/main/LICENSE)
+[![Open issues](https://img.shields.io/github/issues/Truongpyeo/DTURelifeLink.svg 'Open issues')](https://github.com/Truongpyeo/DTURelifeLink/issues)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr/Truongpyeo/DTURelifeLink.svg 'Open Pull Requests')](https://github.com/Truongpyeo/DTURelifeLink/pulls)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/Truongpyeo/DTURelifeLink.svg 'Commit activity')](https://github.com/Truongpyeo/DTURelifeLink/graphs/commit-activity)
+[![GitHub contributors](https://img.shields.io/github/contributors/Truongpyeo/DTURelifeLink.svg 'Github contributors')](https://github.com/Truongpyeo/DTURelifeLink/graphs/contributors)
 
 
 Ứng dụng hỗ trợ cứu nạn khẩn cấp và quản lý nguồn lực

@@ -7,6 +7,14 @@
 
 
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Truongpyeo/DTURelifeLink/blob/main/LICENSE)
+[![Open issues](https://img.shields.io/github/issues/Truongpyeo/DTURelifeLink.svg 'Open issues')](https://github.com/Truongpyeo/DTURelifeLink/issues)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr/Truongpyeo/DTURelifeLink.svg 'Open Pull Requests')](https://github.com/Truongpyeo/DTURelifeLink/pulls)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/Truongpyeo/DTURelifeLink.svg 'Commit activity')](https://github.com/Truongpyeo/DTURelifeLink/graphs/commit-activity)
+[![GitHub contributors](https://img.shields.io/github/contributors/Truongpyeo/DTURelifeLink.svg 'Github contributors')](https://github.com/Truongpyeo/DTURelifeLink/graphs/contributors)
+
+
+
 
 Ứng dụng hỗ trợ cứu nạn khẩn cấp và quản lý nguồn lực
 
