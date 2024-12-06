@@ -5,11 +5,7 @@
 > *"💚 Ấn nút nhớ, thả hy vọng 🌿"*
 
 
-[![Github license](https://img.shields.io/github/license/CTU-LinguTechies/VN-Law-Advisor.svg 'Github license')](https://github.com/CTU-LinguTechies/VN-Law-Advisor/blob/master/LICENSE)
-[![Open issues](https://img.shields.io/github/issues/CTU-LinguTechies/VN-Law-Advisor.svg 'Open issues')](https://github.com/CTU-LinguTechies/VN-Law-Advisor/issues)
-[![Open Pull Requests](https://img.shields.io/github/issues-pr/CTU-LinguTechies/VN-Law-Advisor.svg 'Open Pull Requests')](https://github.com/CTU-LinguTechies/VN-Law-Advisor/pulls)
-[![Commit activity](https://img.shields.io/github/commit-activity/m/CTU-LinguTechies/VN-Law-Advisor.svg 'Commit activity')](https://github.com/CTU-LinguTechies/VN-Law-Advisor/graphs/commit-activity)
-[![GitHub contributors](https://img.shields.io/github/contributors/CTU-LinguTechies/VN-Law-Advisor.svg 'Github contributors')](https://github.com/CTU-LinguTechies/VN-Law-Advisor/graphs/contributors)
+
 
 
 Ứng dụng hỗ trợ cứu nạn khẩn cấp và quản lý nguồn lực
@@ -22,7 +18,7 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 
 **`RELIEFLINK`** Dự án cứu nạn khẩn cấp nhằm xây dựng một hệ thống hiệu quả để cung cấp các dịch vụ cứu trợ khẩn cấp và quản lý tài nguyên trong các tình huống thảm họa. Hệ thống này sử dụng công nghệ bản đồ để theo dõi và phân phối tài nguyên như thực phẩm, nước, và thuốc men, giúp các đội cứu hộ phản ứng nhanh chóng và chính xác. Các tính năng của hệ thống bao gồm việc tự động phân bổ tài nguyên theo nhu cầu và vị trí, cung cấp giao diện người dùng thân thiện dựa trên `nền tảng LCDP` để quản lý và điều phối hoạt động cứu hộ, đồng thời phân tích dữ liệu thời gian thực để đưa ra các quyết định kịp thời. Mục tiêu của dự án là tối ưu hóa quy trình cứu trợ, giảm thiểu thời gian phản ứng và đảm bảo rằng các nạn nhân nhận được sự hỗ trợ kịp thời nhất.
 
-# 💫 Tại sao RELIEFLINK sẽ thay đổi cuộc sống của bạn
+## 💫 Tại sao RELIEFLINK sẽ thay đổi cuộc sống của bạn
 
 - 🚨 Hỗ trợ cứu nạn thông minh: Chúng tôi tin rằng mỗi giây phút đều quan trọng trong tình huống khẩn  cấp. Hệ thống của chúng tôi tích hợp công nghệ AI tiên tiến, giúp phản ứng nhanh chóng và chính xác như một đội cứu hộ chuyên nghiệp! Từ việc xác định nhu cầu cứu trợ đến kết nối với các dịch vụ khẩn cấp, RELIEFLINK đảm bảo rằng không ai bị bỏ lại phía sau.
 
