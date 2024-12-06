@@ -6,7 +6,6 @@
 
 
 
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Truongpyeo/DTURelifeLink/blob/main/LICENSE)
 [![Open issues](https://img.shields.io/github/issues/Truongpyeo/DTURelifeLink.svg 'Open issues')](https://github.com/Truongpyeo/DTURelifeLink/issues)
 [![Open Pull Requests](https://img.shields.io/github/issues-pr/Truongpyeo/DTURelifeLink.svg 'Open Pull Requests')](https://github.com/Truongpyeo/DTURelifeLink/pulls)
@@ -96,23 +95,23 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 
 
 
-### 🏃 Xây dựng hệ thống ứng cứu hiệu quả 
-  - Quản lý thảm họa
-  - Kinh tế cứu trợ thảm họa 
-  - Quản lý tình nguyện và lực lượng hỗ trợ
-  - Phân tích dữ liệu cộng đồng
-  - Hỗ trợ ra quyết định kịp thời và chính xác
-### 🌳 Đóng góp cộng đồng
-  - Hỗ trợ xây dựng cộng đồng
-  - Giải pháp năng lượng xanh
-  - Mô hình kinh tế tuần hoàn
-  - Đảm bảo tính linh hoạt và đổi mới 
-### 🧠  Tích hợp công nghệ
-  - Hệ thống quản lý và dự báo tích hợp
-  - Dẫn đường và chỉ dẫn
-  - Cảm biến môi trường
-  - Quản lý và phân phối tài nguyên cứu trợ(Blockchain)
-  - Chuyển tiền và thanh toán không biên giớ
+  ### 🏃 Xây dựng hệ thống ứng cứu hiệu quả 
+    - Quản lý thảm họa
+    - Kinh tế cứu trợ thảm họa 
+    - Quản lý tình nguyện và lực lượng hỗ trợ
+    - Phân tích dữ liệu cộng đồng
+    - Hỗ trợ ra quyết định kịp thời và chính xác
+  ### 🌳 Đóng góp cộng đồng
+    - Hỗ trợ xây dựng cộng đồng
+    - Giải pháp năng lượng xanh
+    - Mô hình kinh tế tuần hoàn
+    - Đảm bảo tính linh hoạt và đổi mới 
+  ### 🧠  Tích hợp công nghệ
+    - Hệ thống quản lý và dự báo tích hợp
+    - Dẫn đường và chỉ dẫn
+    - Cảm biến môi trường
+    - Quản lý và phân phối tài nguyên cứu trợ(Blockchain)
+    - Chuyển tiền và thanh toán không biên giới
 
 ##  📌 Các đặc điểm nổi bật  và lợi ích cho người dùng
   - **Cảnh báo sớm và dự báo thiên tai** : Hệ thống cảnh báo sớm giúp giảm thiểu thiệt hại về người và tài sản, đồng thời tăng cường khả năng chuẩn bị của cộng đồng trước thiên tai.
