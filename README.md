@@ -13,7 +13,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/Truongpyeo/DTURelifeLink.svg 'Github contributors')](https://github.com/Truongpyeo/DTURelifeLink/graphs/contributors)
 
 
-  Ứng dụng hỗ trợ cứu nạn khẩn cấp và quản lý nguồn lực.Mục tiêu của dự án là phát triển một hệ thống dựa trên `nền tảng LCDP` để hỗ trợ cứu nạn cứu trợ khẩn cấp, quản lý nguồn lực cứu trợ và quản lý tái thiết sau thảm họa.
+  Ứng dụng hỗ trợ cứu nạn khẩn cấp và quản lý nguồn lực. Mục tiêu của dự án là phát triển một hệ thống dựa trên `nền tảng LCDP` để hỗ trợ cứu nạn cứu trợ khẩn cấp, quản lý nguồn lực cứu trợ và quản lý tái thiết sau thảm họa.
 
   
 Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở-Olympic Tin học Sinh viên Việt Nam 2024](https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F)
@@ -33,15 +33,6 @@ Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở-Olym
 
 - 🌍 Tầm nhìn dài hạn: RELIEFLINK không chỉ dừng lại ở việc cứu trợ khẩn cấp mà còn hướng tới tái thiết và phục hồi sau thảm họa. Với sự tích hợp của công nghệ tiên tiến như IoT và phân tích dữ liệu lớn, chúng tôi cam kết mang lại sự phát triển bền vững và an toàn cho cộng đồng trên toàn thế giới.
 
-
-## 📂 Chức Năng Chính
-![s](static/img/activity.jpg)
-
-
-- ❤️‍🩹 Hỗ trợ cứu hộ cứu nạn khẩn cấp
-- 🫶 Quản lý và phân phối nguồn lực cứu trợ
-- 🌪️ Cảnh báo và hướng dẫn an toàn trong thảm hoạ
-
 ## 🎯 Mục tiêu 
 -  **Tăng cường hiệu quả cứu trợ**: Cung cấp công cụ để theo dõi, phân phối và quản lý tài nguyên cứu trợ (thực phẩm, nước, thuốc men, v.v.) một cách nhanh chóng và chính xác, đảm bảo các đội cứu hộ có thể đáp ứng nhu cầu kịp thời.
 
@@ -52,6 +43,17 @@ Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở-Olym
 - **Tăng cường phối hợp và điều phối**: Cung cấp các giao diện dễ sử dụng để các đơn vị cứu hộ có thể phối hợp với nhau, đảm bảo hoạt động cứu trợ diễn ra thông suốt và hiệu quả trong mọi tình huống.
 - **Giảm thiểu thời gian phản ứng**: Cải thiện thời gian phản ứng của các đội cứu hộ, giúp giảm thiểu thiệt hại và nâng cao khả năng phục hồi của cộng đồng sau thảm họa.
 - **Cải thiện khả năng tiếp cận và hỗ trợ cộng đồng**: Xây dựng các tính năng đặc biệt để đảm bảo các nhóm người dễ bị tổn thương như người già, trẻ em, người khuyết tật nhận được sự hỗ trợ kịp thời và công bằng. 
+
+
+## 📂 Chức Năng Chính
+![s](static/img/activity.jpg)
+
+
+- ❤️‍🩹 Hỗ trợ cứu hộ cứu nạn khẩn cấp
+- 🫶 Quản lý và phân phối nguồn lực cứu trợ
+- 🌪️ Cảnh báo và hướng dẫn an toàn trong thảm hoạ
+
+
 
 
 
@@ -113,10 +115,10 @@ Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở-Olym
 
 ## 🌏 Mục tiêu tương lai của dự án 
 
--  **Tăng cường năng lực ứng phó với thảm họa** : Hệ thống có thể trở thành một công cụ quan trọng cho các quốc gia thường xuyên chịu ảnh hưởng bởi thiên tai, giúp nâng cao khả năng ứng phó nhanh chóng và giảm thiểu thiệt hại.  Mở rộng ứng dụng cho các tình huống khẩn cấp khác, như dịch bệnh, khủng hoảng nhân đạo, hoặc các sự kiện bất ngờ.
+-  **Tăng cường năng lực ứng phó với thảm họa** : Hệ thống có thể trở thành một công cụ quan trọng cho các quốc gia thường xuyên chịu ảnh hưởng bởi thiên tai, giúp nâng cao khả năng ứng phó nhanh chóng và giảm thiểu thiệt hại. Mở rộng ứng dụng cho các tình huống khẩn cấp khác, như dịch bệnh, khủng hoảng nhân đạo, hoặc các sự kiện bất ngờ.
 - **Phát triển thành một nền tảng quốc tế** : Dự án có tiềm năng trở thành một hệ thống tiêu chuẩn, được sử dụng bởi các tổ chức quốc tế và các tổ chức nhân đạo khác để phối hợp cứu trợ trên toàn cầu.
 - **Ứng dụng trí tuệ nhân tạo và phân tích dữ liệu lớn** : Sử dụng AI để phân tích và dự đoán thảm họa, từ đó cải thiện khả năng chuẩn bị và ứng phó trước khi thảm họa xảy ra. Phân tích dữ liệu lớn (Big Data) để tối ưu hóa việc phân phối nguồn lực, dự đoán nhu cầu cứu trợ và đánh giá hiệu quả của các hoạt động cứu trợ.
-- **Mở rộng sang lĩnh vực tái thiết và phục hồi** : Hệ thống không chỉ dừng lại ở giai đoạn cứu trợ mà còn hỗ trợ tái thiết cơ sở hạ tầng và khôi phục kinh tế sau thảm họa.Phát triển hơn để quản lý việc tái thiết, đảm bảo tính bền vững và lâu dài cho các cộng đồng bị ảnh hưởng.
+- **Mở rộng sang lĩnh vực tái thiết và phục hồi** : Hệ thống không chỉ dừng lại ở giai đoạn cứu trợ mà còn hỗ trợ tái thiết cơ sở hạ tầng và khôi phục kinh tế sau thảm họa. Phát triển hơn để quản lý việc tái thiết, đảm bảo tính bền vững và lâu dài cho các cộng đồng bị ảnh hưởng.
 - **Khai thác các công nghệ tiên tiến** : Ứng dụng IoT (Internet of Things) để thu thập dữ liệu thời gian thực từ các cảm biến và thiết bị thông minh, giúp cải thiện độ chính xác trong việc phát hiện, cứu trợ và đánh giá thảm họa.
 
 ## 📢 Đối tượng hướng đến

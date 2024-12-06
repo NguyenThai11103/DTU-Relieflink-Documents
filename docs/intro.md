@@ -2,7 +2,7 @@
 
 ![s](../static/img/Reliefbanner.png)
 
-> *"💚 Khi thảm họa ập đến, RELIEFLINK sẽ là điểm tựa của bạn 🌿"*  [Attention - câu slogan thu hút]
+> *"💚 Ấn nút nhớ, thả hy vọng 🌿"*
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Truongpyeo/DTURelifeLink/blob/main/LICENSE)
@@ -12,10 +12,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/Truongpyeo/DTURelifeLink.svg 'Github contributors')](https://github.com/Truongpyeo/DTURelifeLink/graphs/contributors)
 
 
-Ứng dụng hỗ trợ cứu nạn khẩn cấp và quản lý nguồn lực
-
-
-  Mục tiêu của dự án  là phát triển một hệ thống dựa trên `nền tảng LCDP` ứng dụng công nghệ trí tuệ nhân tạo để hỗ trợ tìm kiếm người mất tích, đánh giá thiệt hại và quản lý tái thiết sau thảm họa.
+Ứng dụng hỗ trợ cứu nạn khẩn cấp và quản lý nguồn lực. Mục tiêu của dự án là phát triển một hệ thống dựa trên `nền tảng LCDP` ứng dụng công nghệ trí tuệ nhân tạo để hỗ trợ tìm kiếm người mất tích, đánh giá thiệt hại và quản lý tái thiết sau thảm họa.
 
 Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Olympic Tin học Sinh viên Việt Nam 2024](https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F)
 . Được open source theo giấy phép [GNU General Public License](https://github.com/olp-dtu-2024/DTU-GreenHope/blob/main/LICENCE)  v3.0 bởi đội tác giả DTU_DZ.
@@ -67,8 +64,8 @@ RELIEFLINK sử dụng công nghệ bản đồ và phân tích dữ liệu th�
 
 - **Nhân viên cứu hộ và cứu trợ**: Những người tham gia vào công tác cứu hộ, cứu trợ và phục hồi sau thiên tai. Họ cần được trang bị kiến thức, kỹ năng và công cụ cần thiết để thực hiện nhiệm vụ một cách hiệu quả.
 
-- **Chính quyền địa phương và các cơ quan quản lý thiên tai** : 	Sử dụng hệ thống cảnh báo sớm để lập kế hoạch ứng phó hiệu quả.
-Tối ưu hóa việc điều phối nguồn lực cứu hộ thông qua hệ thống quản lý thông minh (smart management system).Đánh giá thiệt hại nhanh chóng và chính xác, từ đó đưa ra các quyết định tái thiết phù hợp.
+- **Chính quyền địa phương và các cơ quan quản lý thiên tai** : Sử dụng hệ thống cảnh báo sớm để lập kế hoạch ứng phó hiệu quả.
+Tối ưu hóa việc điều phối nguồn lực cứu hộ thông qua hệ thống quản lý thông minh (smart management system). Đánh giá thiệt hại nhanh chóng và chính xác, từ đó đưa ra các quyết định tái thiết phù hợp.
 	
 
 - **Nhà tài trợ và tổ chức quốc tế**: Các tổ chức phi chính phủ, nhà tài trợ và các tổ chức quốc tế đóng vai trò quan trọng trong việc cung cấp nguồn lực cho công tác cứu trợ. Họ sẽ sử dụng nền tảng để theo dõi và giám sát các hoạt động tái thiết, đồng thời đảm bảo rằng nguồn lực được phân phối đúng nơi cần thiết.
@@ -81,7 +78,7 @@ Tối ưu hóa việc điều phối nguồn lực cứu hộ thông qua hệ th
 - **Các nhà nghiên cứu và chuyên gia trong lĩnh vực thảm họa và tái thiết**: Các nhà nghiên cứu, chuyên gia trong lĩnh vực thiên tai, cứu trợ và tái thiết sẽ sử dụng ứng dụng để thu thập dữ liệu, phân tích xu hướng thiệt hại và cải tiến các chiến lược phục hồi cho các thảm họa trong tương lai.
 
 ## 📞 Liên hệ
-- Lê Thanh Trường       :  <u>thanhtruong23111999@gmail.com</u>
+- Lê Thanh Trường       :  <u>thanhtruong23111999@gmail.com</u> 
 - Võ Văn Việt           :  <u>vietvo371@gmail.com</u>
 - Nguyễn Ngọc Duy Thái  :  <u>kkdn011@gmail.com</u>
 
