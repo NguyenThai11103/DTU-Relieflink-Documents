@@ -93,7 +93,7 @@ Nếu workspace đích đã có datasource trùng tên nhưng khác loại với
 - Xác nhận quyền truy cập repository
 - Kiểm tra định dạng URL git clone
 
-## Tài liệu tham khảo
+## 📇 Tài liệu tham khảo
 - [Import apps from Git - Appsmith Docs](https://docs.appsmith.com/advanced-concepts/version-control-with-git/import-from-repository)
 - [Hướng dẫn sử dụng Deploy Keys](https://docs.github.com/en/developers/overview/managing-deploy-keys)
 
@@ -129,7 +129,7 @@ Nếu bạn muốn sử dụng MongoDB Atlas riêng:
    - Paste connection string của bạn
    - Thay thế `<username>`, `<password>` và tên database
 
-📚  Tài liệu tham khảo:
+📇 Tài liệu tham khảo:
 - [MongoDB Atlas Documentation](https://www.mongodb.com/docs/atlas/)
 - [Appsmith MongoDB Integration](https://docs.appsmith.com/reference/datasources/mongodb)
 
