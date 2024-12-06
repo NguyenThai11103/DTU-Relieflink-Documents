@@ -58,4 +58,4 @@ Thiết kế theo kiến trúc như hình vẽ bên dưới:
 
 *" 🏫 DTU_DZ - DUY TAN UNIVERSITY - SCS ✨"*
 ### 📝 License
-Dự án này được cấp phép theo các điều khoản của giấy phép [GPL V3 License](https://github.com/olp-dtu-2024/DTU-GreenHope/blob/main/LICENCE)
+Dự án này được cấp phép theo các điều khoản của giấy phép [MIT License](https://github.com/NguyenThai11103/DTU-Relieflink-documents/blob/main/LICENSE)
