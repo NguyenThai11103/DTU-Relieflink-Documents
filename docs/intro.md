@@ -2,7 +2,7 @@
 
 ![s](../static/img/Reliefbanner.png)
 
-> *"💚 Ấn nút nhớ, thả hy vọng 🌿"*
+> *"💚 Khi thảm họa ập đến, RELIEFLINK sẽ là điểm tựa của bạn 🌿"*  [Attention - câu slogan thu hút]
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Truongpyeo/DTURelifeLink/blob/main/LICENSE)
@@ -22,14 +22,20 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 
 **`RELIEFLINK`** Dự án cứu nạn khẩn cấp nhằm xây dựng một hệ thống hiệu quả để cung cấp các dịch vụ cứu trợ khẩn cấp và quản lý tài nguyên trong các tình huống thảm họa. Hệ thống này sử dụng công nghệ bản đồ để theo dõi và phân phối tài nguyên như thực phẩm, nước, và thuốc men, giúp các đội cứu hộ phản ứng nhanh chóng và chính xác. Các tính năng của hệ thống bao gồm việc tự động phân bổ tài nguyên theo nhu cầu và vị trí, cung cấp giao diện người dùng thân thiện dựa trên `nền tảng LCDP` để quản lý và điều phối hoạt động cứu hộ, đồng thời phân tích dữ liệu thời gian thực để đưa ra các quyết định kịp thời. Mục tiêu của dự án là tối ưu hóa quy trình cứu trợ, giảm thiểu thời gian phản ứng và đảm bảo rằng các nạn nhân nhận được sự hỗ trợ kịp thời nhất.
 
+## 🆘 Thách thức khẩn cấp 
+Trong những tình huống thảm họa, việc cứu trợ kịp thời và chính xác có thể cứu sống hàng ngàn người. Mỗi giây phút trong thảm họa đều là cuộc đua với thời gian. Việc thiếu một hệ thống phối hợp hiệu quả có thể dẫn đến : 
+- Chậm trễ trong cứu hộ
+- Phân phối nguồn lực không đồng đều
+- Khó khăn trong việc định vị người cần cứu trợ
 
-## 📂 Chức Năng Chính
-![s](../static/img/activity.jpg)
+## 💡 Giải pháp của chúng tôi 
+RELIEFLINK sử dụng công nghệ bản đồ và phân tích dữ liệu thời gian thực để giúp các đội cứu hộ đưa ra các quyết định nhanh chóng và chính xác. Hệ thống này giúp chúng ta có thể phân bổ tài nguyên như thực phẩm, nước, và thuốc men, đồng thời đảm bảo hỗ trợ kịp thời cho các cộng đồng bị ảnh hưởng.Ứng dụng thông minh hỗ trợ cứu nạn khẩn cấp và quản lý nguồn lực, được xây dựng trên nền tảng LCDP với:
 
+  - Hỗ trợ cứu nạn thông minh
+  - Hệ thống xác định vị trí
+  - Quản lý nguồn lực hiệu quả
+  - Cảnh báo sớm thông minh
 
-- ❤️‍🩹 Hỗ trợ cứu hộ cứu nạn khẩn cấp
-- 🫶 Quản lý và phân phối nguồn lực cứu trợ
-- 🌪️ Cảnh báo và hướng dẫn an toàn trong thảm hoạ
 
 ## 🎯 Mục tiêu 
 -  **Tăng cường hiệu quả cứu trợ**: Cung cấp công cụ để theo dõi, phân bổ và quản lý tài nguyên cứu trợ (thực phẩm, nước, thuốc men, v.v.) một cách nhanh chóng và chính xác, đảm bảo các đội cứu hộ có thể đáp ứng nhu cầu kịp thời.
@@ -41,6 +47,17 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 - **Tăng cường phối hợp và điều phối**: Cung cấp các giao diện dễ sử dụng để các đơn vị cứu hộ có thể phối hợp với nhau, đảm bảo hoạt động cứu trợ diễn ra thông suốt và hiệu quả trong mọi tình huống.
 - **Giảm thiểu thời gian phản ứng**: Cải thiện thời gian phản ứng của các đội cứu hộ, giúp giảm thiểu thiệt hại và nâng cao khả năng phục hồi của cộng đồng sau thảm họa..
 - **Cải thiện khả năng tiếp cận và hỗ trợ cộng đồng**: Xây dựng các tính năng đặc biệt để đảm bảo các nhóm người dễ bị tổn thương như người già, trẻ em, người khuyết tật nhận được sự hỗ trợ kịp thời và công bằng.
+
+
+
+## 📂 Chức Năng Chính
+![s](../static/img/activity.jpg)
+
+
+- ❤️‍🩹 Hỗ trợ cứu hộ cứu nạn khẩn cấp
+- 🫶 Quản lý và phân phối nguồn lực cứu trợ
+- 🌪️ Cảnh báo và hướng dẫn an toàn trong thảm hoạ
+
 
 
 ## 📢 Đối tượng hướng đến
@@ -75,5 +92,6 @@ Tối ưu hóa việc điều phối nguồn lực cứu hộ thông qua hệ th
 - 📱 Hotline: +84 376 659 652
 
 *" 🏫 DTU_DZ - DUY TAN UNIVERSITY - SCS ✨"*
+
 ### 📝 License
-Dự án này được cấp phép theo các điều khoản của giấy phép [MIT License](https://github.com/NguyenThai11103/DTU-Relieflink-documents/blob/main/LICENSE)
+Dự án này được cấp phép theo các điều khoản của giấy phép [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/master/LICENSE)

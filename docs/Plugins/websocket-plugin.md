@@ -20,7 +20,8 @@ Plugin được phát triển như một phần của ứng dụng trong cuộc 
 - Võ Văn Việt
 - Nguyễn Ngọc Duy Thái
 ## 📄 Giấy Phép
-Dự án được phân phối dưới giấy phép GNU General Public License v3.0
+Dự án được phân phối dưới giấy phép [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/master/LICENSE)
+
 ## 🤝 Đóng Góp
 Chúng tôi rất hoan nghênh các đóng góp từ cộng đồng! Vui lòng:
 

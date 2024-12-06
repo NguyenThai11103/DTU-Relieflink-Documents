@@ -210,7 +210,7 @@ const circleOptions = {
 - Lê Thanh Trường
 - 📧 Email: thanhtruong23111999@gmail.com
 ## 📄 Giấy Phép
-Dự án này được cấp phép theo các điều khoản của giấy phép [MIT License](https://github.com/NguyenThai11103/DTU-Relieflink-documents/blob/main/LICENSE)
+Dự án được phân phối dưới giấy phép [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/master/LICENSE)
 ## 🤝 Đóng Góp
 Chúng tôi rất hoan nghênh các đóng góp từ cộng đồng! Vui lòng:
 
