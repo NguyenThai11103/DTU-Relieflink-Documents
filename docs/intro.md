@@ -65,9 +65,9 @@ RELIEFLINK sử dụng công nghệ bản đồ và phân tích dữ liệu th�
 
 - **Nhân viên cứu hộ và cứu trợ**: Những người tham gia vào công tác cứu hộ, cứu trợ và phục hồi sau thiên tai. Họ cần được trang bị kiến thức, kỹ năng và công cụ cần thiết để thực hiện nhiệm vụ một cách hiệu quả.
 
-- **Chính quyền địa phương và các cơ quan quản lý thiên tai** : Sử dụng hệ thống cảnh báo sớm để lập kế hoạch ứng phó hiệu quả.
-Tối ưu hóa việc điều phối nguồn lực cứu hộ thông qua hệ thống quản lý thông minh (smart management system). Đánh giá thiệt hại nhanh chóng và chính xác, từ đó đưa ra các quyết định tái thiết phù hợp.
+- **Chính quyền địa phương và các cơ quan quản lý thiên tai** : Sử dụng hệ thống cảnh báo sớm để lập kế hoạch ứng phó hiệu quả. Tối ưu hóa việc điều phối nguồn lực cứu hộ thông qua hệ thống quản lý thông minh. Đánh giá thiệt hại nhanh chóng và chính xác, từ đó đưa ra các quyết định tái thiết phù hợp.
 	
+
 
 - **Nhà tài trợ và tổ chức quốc tế**: Các tổ chức phi chính phủ, nhà tài trợ và các tổ chức quốc tế đóng vai trò quan trọng trong việc cung cấp nguồn lực cho công tác cứu trợ. Họ sẽ sử dụng nền tảng để theo dõi và giám sát các hoạt động tái thiết, đồng thời đảm bảo rằng nguồn lực được phân phối đúng nơi cần thiết.
 
