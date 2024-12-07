@@ -23,7 +23,7 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 
 - 🎯 Quản lý nguồn lực hiệu quả: Giống như có một chuyên gia logistics bên cạnh, RELIEFLINK tối ưu hóa việc phân phối nguồn lực cứu trợ, đảm bảo sự hỗ trợ đến đúng nơi, đúng lúc. Với khả năng phân tích tình hình và đánh giá hiệu quả cứu trợ, chúng tôi giúp bạn quản lý tài nguyên một cách thông minh và bền vững.
 
-- ⚡ Cảnh báo sớm thông minh: Biến thông tin thành hành động với hệ thống cảnh báo sớm tiên tiến. Theo dõi và dự báo thảm họa theo thời gian thực để bảo vệ cộng đồng! Hệ thống thông báo khẩn cấp chúng tôi giúp bạn luôn sẵn sàng ứng phó với mọi tình huống, từ thiên tai đến các sự kiện bất ngờ.
+- ⚡ Cảnh báo sớm thông minh: Biến thông tin thành hành động với hệ thống cảnh báo sớm tiên tiến. Theo dõi và dự báo thảm họa theo thời gian thực để bảo vệ cộng đồn.  Hệ thống thông báo khẩn cấp chúng tôi giúp bạn luôn sẵn sàng ứng phó với mọi tình huống, từ thiên tai đến các sự kiện bất ngờ.
 
 - 🤝 Kết nối cộng đồng mạnh mẽ: Xây dựng mạng lưới hỗ trợ rộng khắp với nền tảng kết nối tình nguyện viên và nguồn lực. Cùng nhau, chúng ta mạnh mẽ hơn! RELIEFLINK không chỉ là một công cụ, mà còn là cầu nối giữa những người cần giúp đỡ và những người sẵn sàng hỗ trợ, tạo nên một cộng đồng đoàn kết và vững mạnh.
 
@@ -82,7 +82,7 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 ##  📌 Các đặc điểm nổi bật  và lợi ích cho người dùng
 - **Cảnh báo sớm và dự báo thiên tai** : Hệ thống cảnh báo sớm giúp giảm thiểu thiệt hại về người và tài sản, đồng thời tăng cường khả năng chuẩn bị của cộng đồng trước thiên tai.
 - **Ứng phó tình huống khẩn cấp**  : Các phương án ứng phó khẩn cấp được triển khai nhanh chóng và hiệu quả nhờ vào công nghệ hiện đại, giúp cứu sống nhiều người và giảm thiểu rủi ro cho các đội cứu hộ.
-- **Tác động tích cực trên nhiều khía cạnh** :  Xã hội , kinh tế , môi trường, công nghệ
+- **Tác động tích cực trên nhiều khía cạnh** :  Xã hội , kinh tế , môi trường, công nghệ.
 - **Đối với cộng đồng và người dân** : Tham gia vào các chương trình đào tạo và tập huấn về ứng phó thiên tai.Chủ động tìm hiểu về các biện pháp phòng tránh và ứng phó với thiên tai.Hỗ trợ lẫn nhau trong các tình huống khẩn cấp, đặc biệt là các nhóm dễ bị tổn thương như người già, trẻ em, và người khuyết tật.
 - **Đối với các doanh nghiệp và nhà đầu tư** : Hỗ trợ tài chính và công nghệ để phát triển và triển khai các giải pháp của dự án.Đóng góp vào các hoạt động cứu trợ và tái thiết như một phần của trách nhiệm xã hội doanh nghiệp.
 
@@ -92,8 +92,8 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 
 -  **Tăng cường năng lực ứng phó với thảm họa** : Hệ thống có thể trở thành một công cụ quan trọng cho các quốc gia thường xuyên chịu ảnh hưởng bởi thiên tai, giúp nâng cao khả năng ứng phó nhanh chóng và giảm thiểu thiệt hại.Mở rộng ứng dụng cho các tình huống khẩn cấp khác, như dịch bệnh, khủng hoảng nhân đạo, hoặc các sự kiện bất ngờ.
 - **Phát triển thành một nền tảng quốc tế** : Dự án có tiềm năng trở thành một hệ thống tiêu chuẩn, được sử dụng bởi các tổ chức quốc tế và các tổ chức nhân đạo khác để phối hợp cứu trợ trên toàn cầu.
-- **Ứng dụng trí tuệ nhân tạo và phân tích dữ liệu lớn** : Sử dụng AI để phân tích và dự đoán thảm họa, từ đó cải thiện khả năng chuẩn bị và ứng phó trước khi thảm họa xảy ra.Phân tích dữ liệu lớn (Big Data) để tối ưu hóa việc phân bổ nguồn lực, dự đoán nhu cầu cứu trợ và đánh giá hiệu quả của các hoạt động cứu trợ
-- **Mở rộng sang lĩnh vực tái thiết và phục hồi** : Hệ thống không chỉ dừng lại ở giai đoạn cứu trợ mà còn hỗ trợ tái thiết cơ sở hạ tầng và khôi phục kinh tế sau thảm họa.Tích hợp công nghệ để quản lý việc tái thiết, đảm bảo tính bền vững và lâu dài cho các cộng đồng bị ảnh hưởng.
+- **Ứng dụng trí tuệ nhân tạo và phân tích dữ liệu lớn** : Sử dụng AI để phân tích và dự đoán thảm họa, từ đó cải thiện khả năng chuẩn bị và ứng phó trước khi thảm họa xảy ra. Phân tích dữ liệu lớn (Big Data) để tối ưu hóa việc phân bổ nguồn lực, dự đoán nhu cầu cứu trợ và đánh giá hiệu quả của các hoạt động cứu trợ
+- **Mở rộng sang lĩnh vực tái thiết và phục hồi** : Hệ thống không chỉ dừng lại ở giai đoạn cứu trợ mà còn hỗ trợ tái thiết cơ sở hạ tầng và khôi phục kinh tế sau thảm họa. Tích hợp công nghệ để quản lý việc tái thiết, đảm bảo tính bền vững và lâu dài cho các cộng đồng bị ảnh hưởng.
 - **Khai thác các công nghệ tiên tiến** : Ứng dụng IoT (Internet of Things) để thu thập dữ liệu thời gian thực từ các cảm biến và thiết bị thông minh, giúp cải thiện độ chính xác trong việc phát hiện và đánh giá thảm họa.
 
 Với những tiềm năng này, dự án có thể trở thành một nền tảng toàn diện và hiệu quả để hỗ trợ không chỉ trong cứu trợ khẩn cấp mà còn trong việc xây dựng khả năng phục hồi lâu dài cho các cộng đồng trên toàn thế giới.
@@ -109,7 +109,7 @@ Với những tiềm năng này, dự án có thể trở thành một nền t�
 ## 💡Nhà phát triển
 
 - 📧 Email: thanhtruong23111999@gmail.com
-- 📱 Hotline: +84 376 659 652
+- 📱 Hotline: 0376 659 652
 
 *" 🏫 DTU_DZ - DUY TAN UNIVERSITY - SCS ✨"*
 ### 📝 License

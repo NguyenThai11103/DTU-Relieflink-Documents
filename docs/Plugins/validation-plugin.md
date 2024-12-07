@@ -6,8 +6,8 @@
 Plugin được phát triển như một phần của ứng dụng trong cuộc thi Mã Nguồn Mở năm 2024.
 
 ## ✨ Tính Năng
-- 🖼️ Giảm sai sót trong nhập liệu, giúp tối ưu hóa tốc độ xử lý yêu cầu cứu nạn.
-- 🔀 Đảm bảo an toàn và tính chính xác của dữ liệu trong hệ thống.
+- 🖼️ Giảm sai sót trong nhập liệu, giúp tối ưu hóa tốc độ xử lý yêu cầu cứu nạn
+- 🔀 Đảm bảo an toàn và tính chính xác của dữ liệu trong hệ thống
 - 🔧 Quản lý và tùy chỉnh validation hiệu quả
 
 ## 🚀 Cài Đặt
@@ -20,6 +20,7 @@ Plugin được phát triển như một phần của ứng dụng trong cuộc 
 - Lê Thanh Trường
 - Võ Văn Việt
 - Nguyễn Ngọc Duy Thái
+
 ## 📄 Giấy Phép
 Dự án được phân phối dưới giấy phép GNU General Public License v3.0
 ## 🤝 Đóng Góp

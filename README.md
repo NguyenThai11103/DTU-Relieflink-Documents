@@ -55,9 +55,6 @@ Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở-Olym
 
 
 
-
-
-
 ## 🔍 Các tính năng chính
 
 ![s](static/img/tinhnang.png)
@@ -94,7 +91,7 @@ Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở-Olym
 - Quản lý tình nguyện và lực lượng hỗ trợ
 - Phân tích dữ liệu cộng đồng
 - Hỗ trợ ra quyết định kịp thời và chính xác
-### 🌳 Đóng góp cộng đồng
+### 🌳 Hỗ trợ cộng đồng
 - Hỗ trợ xây dựng cộng đồng
 - Nâng cao năng lực ứng phó của cộng đồng
 - Tối ưu hóa việc sử dụng nguồn lực địa phương

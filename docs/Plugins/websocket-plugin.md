@@ -19,6 +19,7 @@ Plugin được phát triển như một phần của ứng dụng trong cuộc 
 - Lê Thanh Trường
 - Võ Văn Việt
 - Nguyễn Ngọc Duy Thái
+
 ## 📄 Giấy Phép
 Dự án được phân phối dưới giấy phép [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/master/LICENSE)
 

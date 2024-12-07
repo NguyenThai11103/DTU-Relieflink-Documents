@@ -25,7 +25,7 @@ Trong những tình huống thảm họa, việc cứu trợ kịp thời và ch
 - Phân phối nguồn lực không đồng đều
 - Khó khăn trong việc định vị người cần cứu trợ
 
-## 💡 Giải pháp của chúng tôi 
+## 🔦 Giải pháp của chúng tôi 
 RELIEFLINK sử dụng công nghệ bản đồ và phân tích dữ liệu thời gian thực để giúp các đội cứu hộ đưa ra các quyết định nhanh chóng và chính xác. Hệ thống này giúp chúng ta có thể phân bổ tài nguyên như thực phẩm, nước, và thuốc men, đồng thời đảm bảo hỗ trợ kịp thời cho các cộng đồng bị ảnh hưởng.Ứng dụng thông minh hỗ trợ cứu nạn khẩn cấp và quản lý nguồn lực, được xây dựng trên nền tảng LCDP với:
 
   - Hỗ trợ cứu nạn thông minh
@@ -35,14 +35,14 @@ RELIEFLINK sử dụng công nghệ bản đồ và phân tích dữ liệu th�
 
 
 ## 🎯 Mục tiêu 
--  **Tăng cường hiệu quả cứu trợ**: Cung cấp công cụ để theo dõi, phân bổ và quản lý tài nguyên cứu trợ (thực phẩm, nước, thuốc men, v.v.) một cách nhanh chóng và chính xác, đảm bảo các đội cứu hộ có thể đáp ứng nhu cầu kịp thời.
+-  **Tăng cường hiệu quả cứu trợ**: Cung cấp công cụ để theo dõi, phân bổ và quản lý tài nguyên cứu trợ (thực phẩm, nước, thuốc men,...) một cách nhanh chóng và chính xác, đảm bảo các đội cứu hộ có thể đáp ứng nhu cầu kịp thời.
 
 -  **Ứng dụng công nghệ bản đồ**: Sử dụng bản đồ trực tuyến để xác định và hiển thị các khu vực bị ảnh hưởng, từ đó hỗ trợ việc phân bổ tài nguyên và điều phối các đội cứu hộ một cách hiệu quả.
 
 -  **Phân tích dữ liệu và đưa ra quyết định**: Thu thập và phân tích dữ liệu từ các nguồn khác nhau để đưa ra các quyết định kịp thời về việc phân phối tài nguyên, điều động lực lượng cứu hộ và tối ưu hóa các hoạt động cứu trợ.
 
 - **Tăng cường phối hợp và điều phối**: Cung cấp các giao diện dễ sử dụng để các đơn vị cứu hộ có thể phối hợp với nhau, đảm bảo hoạt động cứu trợ diễn ra thông suốt và hiệu quả trong mọi tình huống.
-- **Giảm thiểu thời gian phản ứng**: Cải thiện thời gian phản ứng của các đội cứu hộ, giúp giảm thiểu thiệt hại và nâng cao khả năng phục hồi của cộng đồng sau thảm họa..
+- **Giảm thiểu thời gian phản ứng**: Cải thiện thời gian phản ứng của các đội cứu hộ, giúp giảm thiểu thiệt hại và nâng cao khả năng phục hồi của cộng đồng sau thảm họa.
 - **Cải thiện khả năng tiếp cận và hỗ trợ cộng đồng**: Xây dựng các tính năng đặc biệt để đảm bảo các nhóm người dễ bị tổn thương như người già, trẻ em, người khuyết tật nhận được sự hỗ trợ kịp thời và công bằng.
 
 
@@ -78,17 +78,17 @@ Tối ưu hóa việc điều phối nguồn lực cứu hộ thông qua hệ th
 - **Các nhà nghiên cứu và chuyên gia trong lĩnh vực thảm họa và tái thiết**: Các nhà nghiên cứu, chuyên gia trong lĩnh vực thiên tai, cứu trợ và tái thiết sẽ sử dụng ứng dụng để thu thập dữ liệu, phân tích xu hướng thiệt hại và cải tiến các chiến lược phục hồi cho các thảm họa trong tương lai.
 
 ## 📞 Liên hệ
-- Lê Thanh Trường       :  <u>thanhtruong23111999@gmail.com</u> 
-- Võ Văn Việt           :  <u>vietvo371@gmail.com</u>
-- Nguyễn Ngọc Duy Thái  :  <u>kkdn011@gmail.com</u>
+- Lê Thanh Trường       :  thanhtruong23111999@gmail.com 
+- Võ Văn Việt           :  vietvo371@gmail.com
+- Nguyễn Ngọc Duy Thái  :  kkdn011@gmail.com
 
 ## 💡Nhà phát triển
 
 - 📧 Email: thanhtruong23111999@gmail.com
 
-- 📱 Hotline: +84 376 659 652
+- 📱 Hotline: 0376 659 652
 
 *" 🏫 DTU_DZ - DUY TAN UNIVERSITY - SCS ✨"*
 
-### 📝 License
+## 📝 License
 Dự án này được cấp phép theo các điều khoản của giấy phép [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/master/LICENSE)
