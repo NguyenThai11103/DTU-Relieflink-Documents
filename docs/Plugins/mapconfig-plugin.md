@@ -207,8 +207,9 @@ const circleOptions = {
 ## 📋 Yêu Cầu Tiên Quyết
 - AppSmith version mới nhất
 ## 👥 Tác Giả
-- Lê Thanh Trường
-- 📧 Email: thanhtruong23111999@gmail.com
+- Lê Thanh Trường       :  thanhtruong23111999@gmail.com 
+- Võ Văn Việt           :  vietvo371@gmail.com
+- Nguyễn Ngọc Duy Thái  :  kkdn011@gmail.com
 ## 📄 Giấy Phép
 Dự án được phân phối dưới giấy phép [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/master/LICENSE)
 ## 🤝 Đóng Góp

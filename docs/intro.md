@@ -15,7 +15,8 @@
 Ứng dụng hỗ trợ cứu nạn khẩn cấp và quản lý nguồn lực. Mục tiêu của dự án là phát triển một hệ thống dựa trên `nền tảng LCDP` ứng dụng công nghệ trí tuệ nhân tạo để hỗ trợ tìm kiếm người mất tích, đánh giá thiệt hại và quản lý tái thiết sau thảm họa.
 
 Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Olympic Tin học Sinh viên Việt Nam 2024](https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F)
-. Được open source theo giấy phép [GNU General Public License](https://github.com/olp-dtu-2024/DTU-GreenHope/blob/main/LICENCE)  v3.0 bởi đội tác giả DTU_DZ.
+. Được open source theo giấy phép  [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/master/LICENSE)
+bởi đội tác giả DTU_DZ.
 
 **`RELIEFLINK`** Dự án cứu nạn khẩn cấp nhằm xây dựng một hệ thống hiệu quả để cung cấp các dịch vụ cứu trợ khẩn cấp và quản lý tài nguyên trong các tình huống thảm họa. Hệ thống này sử dụng công nghệ bản đồ để theo dõi và phân phối tài nguyên như thực phẩm, nước, và thuốc men, giúp các đội cứu hộ phản ứng nhanh chóng và chính xác. Các tính năng của hệ thống bao gồm việc tự động phân bổ tài nguyên theo nhu cầu và vị trí, cung cấp giao diện người dùng thân thiện dựa trên `nền tảng LCDP` để quản lý và điều phối hoạt động cứu hộ, đồng thời phân tích dữ liệu thời gian thực để đưa ra các quyết định kịp thời. Mục tiêu của dự án là tối ưu hóa quy trình cứu trợ, giảm thiểu thời gian phản ứng và đảm bảo rằng các nạn nhân nhận được sự hỗ trợ kịp thời nhất.
 

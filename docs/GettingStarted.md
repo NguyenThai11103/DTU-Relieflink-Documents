@@ -63,6 +63,7 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 
 #### 🏃 Xây dựng hệ thống ứng cứu hiệu quả 
 - Quản lý thảm họa
+- Tương tác giữa đội cứu hộ và người cần cứu trợ
 - Kinh tế cứu trợ thảm họa 
 - Quản lý tình nguyện và lực lượng hỗ trợ
 - Phân tích dữ liệu cộng đồng

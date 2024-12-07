@@ -5,27 +5,27 @@ const sidebars: SidebarsConfig = {
     {
       type: 'doc',
       id: 'intro',
-      label: 'Giới thiệu  🚀',
+      label: '🚀 Giới thiệu',
     },
     {
       type: 'doc',
       id: 'GettingStarted',
-      label: 'Tổng quan 📝',
+      label: '📝 Tổng quan ',
     },
     {
       type: 'doc',
       id: 'Architecture',
-      label: 'Kiến trúc phần mềm 🏗️',
+      label: '🏗️ Kiến trúc phần mềm ',
     },
     {
       type: 'doc',
       id: 'Installation',
-      label: 'Hướng dẫn cài đặt 🛠️',
+      label: '🛠️ Hướng dẫn cài đặt ',
     },
     
     {
       type: 'category',
-      label: 'Plugin 🔌',
+      label: '🔌 Plugin ',
       items: [
         'Plugins/mapconfig-plugin',
         'Plugins/validation-plugin',
@@ -35,7 +35,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'doc',
       id: 'License',
-      label: 'License 📜',
+      label: ' 📜 License ',
     },
   ],
 };
