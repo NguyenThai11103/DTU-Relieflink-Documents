@@ -28,8 +28,7 @@ const sidebars: SidebarsConfig = {
       label: '🔌 Plugin ',
       items: [
         'Plugins/mapconfig-plugin',
-        'Plugins/validation-plugin',
-        'Plugins/websocket-plugin',
+        'Plugins/realtimedtu-plugin',
       ],
     },
     {
