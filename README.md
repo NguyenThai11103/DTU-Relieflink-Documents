@@ -16,7 +16,7 @@
   Ứng dụng hỗ trợ cứu nạn khẩn cấp và quản lý nguồn lực. Mục tiêu của dự án là phát triển một hệ thống dựa trên `nền tảng LCDP` để hỗ trợ cứu nạn cứu trợ khẩn cấp, quản lý nguồn lực cứu trợ và quản lý tái thiết sau thảm họa.
 
   
-Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở-Olympic Tin học Sinh viên Việt Nam 2024](https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F)
+Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở- Olympic Tin học Sinh viên Việt Nam 2024](https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F)
 . Được open source theo giấy phép [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/main/LICENSE) bởi đội tác giả DTU_DZ.
 
 **`RELIEFLINK`** Dự án cứu nạn khẩn cấp nhằm xây dựng một hệ thống hiệu quả để cung cấp các dịch vụ cứu trợ khẩn cấp và quản lý tài nguyên trong các tình huống thảm họa. Hệ thống này sử dụng công nghệ bản đồ để theo dõi và phân phối tài nguyên như thực phẩm, nước, và thuốc men, giúp các đội cứu hộ phản ứng nhanh chóng và chính xác. Các tính năng của hệ thống bao gồm việc tự động phân phối tài nguyên theo nhu cầu và vị trí, cung cấp giao diện người dùng thân thiện dựa trên `NỀN TẢNG LCDP` để quản lý và điều phối hoạt động cứu hộ, đồng thời phân tích dữ liệu thời gian thực để đưa ra các quyết định kịp thời. Mục tiêu của dự án là tối ưu hóa quy trình cứu trợ, giảm thiểu thời gian phản ứng và đảm bảo rằng các nạn nhân nhận được sự hỗ trợ kịp thời nhất.
@@ -138,15 +138,50 @@ Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở-Olym
 
 ## 💡Nhà phát triển
 
-📧 Email: thanhtruong23111999@gmail.com 
+- 📧 Email: thanhtruong23111999@gmail.com
 
-📱 Hotline: +84 376 659 652
+- 📱 Hotline: 0376 659 652
+
+*" 🏫 DTU_DZ - DUY TAN UNIVERSITY - SCS ✨"*
 
 ## 📞 Liên hệ
 - Lê Thanh Trường       :  <u>thanhtruong23111999@gmail.com</u>
 - Võ Văn Việt           :  <u>vietvo371@gmail.com</u>
 - Nguyễn Ngọc Duy Thái  :  <u>kkdn011@gmail.com</u>
 
-*" 🏫 DTU_DZ - DUY TAN UNIVERSITY - SCS ✨"*
+## 📚 Tài liệu
+- [Hướng dẫn cài đặt](https://github.com/Truongpyeo/DTURelifeLink/blob/master/docs/setup.md)
+- [Hướng dẫn đóng góp](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CONTRIBUTING.md)
+
+## 🤝 Đóng góp
+Chúng tôi rất hoan nghênh mọi đóng góp! Xem [CONTRIBUTING](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CONTRIBUTING.md) để biết thêm chi tiết.
+
+## 🔄 Quy trình phát triển
+1. Fork repo này
+2. Tạo branch mới (`git checkout -b feature/AmazingFeature`)
+3. Commit thay đổi (`git commit -m 'Add some AmazingFeature'`)
+4. Push lên branch (`git push origin feature/AmazingFeature`) 
+5. Tạo Pull Request
+
+## 🐛 Báo lỗi
+Nếu bạn phát hiện lỗi, vui lòng tạo issue mới với:
+- Mô tả chi tiết lỗi
+- Các bước tái hiện
+- Screenshots nếu có
+- Môi trường (browser, OS...)
+
+## 📜 Changelog
+Xem [CHANGELOG](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CHANGELOG.md) để biết lịch sử thay đổi.
+
+## ⚖️ Code of Conduct
+Xem [CODE_OF_CONDUCT](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CODE_OF_CONDUCT.md) để biết các quy tắc và hành vi được chấp nhận.
+
+## Báo cáo lỗi & Góp ý
+- Issues: [GitHub Issues](https://github.com/Truongpyeo/DTURelifeLink/issues)
+- Security: Đối với các vấn đề bảo mật nhạy cảm, vui lòng liên hệ trực tiếp qua email: <u>thanhtruong23111999@gmail.com</u>
+
+
 ### 📝 License
-Dự án này được cấp phép theo các điều khoản của giấy phép [MIT License](https://github.com/NguyenThai11103/DTU-Relieflink-documents/blob/main/LICENSE)
+Dự án được phân phối dưới giấy phép [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/master/LICENSE)
+
+*"Được phát triển với ❤️ bởi Nhóm DTU-DZ"*

@@ -206,28 +206,53 @@ const circleOptions = {
 
 ## 📋 Yêu Cầu Tiên Quyết
 - AppSmith version mới nhất
-## 👥 Tác Giả
-- Lê Thanh Trường       :  thanhtruong23111999@gmail.com 
-- Võ Văn Việt           :  vietvo371@gmail.com
-- Nguyễn Ngọc Duy Thái  :  kkdn011@gmail.com
-## 📄 Giấy Phép
+## 💡Nhà phát triển
+
+- 📧 Email: thanhtruong23111999@gmail.com
+
+- 📱 Hotline: 0376 659 652
+
+*" 🏫 DTU_DZ - DUY TAN UNIVERSITY - SCS ✨"*
+
+## 📞 Liên hệ
+- Lê Thanh Trường       :  <u>thanhtruong23111999@gmail.com</u>
+- Võ Văn Việt           :  <u>vietvo371@gmail.com</u>
+- Nguyễn Ngọc Duy Thái  :  <u>kkdn011@gmail.com</u>
+
+## 📚 Tài liệu
+- [Hướng dẫn cài đặt](https://github.com/Truongpyeo/DTURelifeLink/blob/master/docs/setup.md)
+- [Hướng dẫn đóng góp](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CONTRIBUTING.md)
+
+## 🤝 Đóng góp
+Chúng tôi rất hoan nghênh mọi đóng góp! Xem [CONTRIBUTING](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CONTRIBUTING.md) để biết thêm chi tiết.
+
+## 🔄 Quy trình phát triển
+1. Fork repo này
+2. Tạo branch mới (`git checkout -b feature/AmazingFeature`)
+3. Commit thay đổi (`git commit -m 'Add some AmazingFeature'`)
+4. Push lên branch (`git push origin feature/AmazingFeature`) 
+5. Tạo Pull Request
+
+## 🐛 Báo lỗi
+Nếu bạn phát hiện lỗi, vui lòng tạo issue mới với:
+- Mô tả chi tiết lỗi
+- Các bước tái hiện
+- Screenshots nếu có
+- Môi trường (browser, OS...)
+
+## 📜 Changelog
+Xem [CHANGELOG](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CHANGELOG.md) để biết lịch sử thay đổi.
+
+## ⚖️ Code of Conduct
+Xem [CODE_OF_CONDUCT](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CODE_OF_CONDUCT.md) để biết các quy tắc và hành vi được chấp nhận.
+
+## Báo cáo lỗi & Góp ý
+- Issues: [GitHub Issues](https://github.com/Truongpyeo/DTURelifeLink/issues)
+- Security: Đối với các vấn đề bảo mật nhạy cảm, vui lòng liên hệ trực tiếp qua email: <u>thanhtruong23111999@gmail.com</u>
+
+
+### 📝 License
 Dự án được phân phối dưới giấy phép [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/master/LICENSE)
-## 🤝 Đóng Góp
-Chúng tôi rất hoan nghênh các đóng góp từ cộng đồng! Vui lòng:
-
-- Tạo issue để báo cáo lỗi
-- Gửi pull request để đề xuất cải tiến
-- Truy cập GitHub Repository của chúng tôi để biết thêm chi tiết
-
-## 🆘 Hỗ Trợ
-Nếu gặp bất kỳ vấn đề nào, vui lòng:
-
-- Mở issue tại GitHub repository
-- Liên hệ trực tiếp với nhóm phát triển
-## ⚠️ Lưu Ý
-- Đảm bảo tương thích với phiên bản AppSmith hiện tại
-- Kiểm tra kết nối và cấu hình trước khi sử dụng
-
 
 
 *"Được phát triển với ❤️ bởi Nhóm DTU-DZ"*

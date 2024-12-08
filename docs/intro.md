@@ -75,11 +75,6 @@ RELIEFLINK sử dụng công nghệ bản đồ và phân tích dữ liệu th�
 
 - **Các nhà nghiên cứu và chuyên gia trong lĩnh vực thảm họa và tái thiết**: Các nhà nghiên cứu, chuyên gia trong lĩnh vực thiên tai, cứu trợ và tái thiết sẽ sử dụng ứng dụng để thu thập dữ liệu, phân tích xu hướng thiệt hại và cải tiến các chiến lược phục hồi cho các thảm họa trong tương lai.
 
-## 📞 Liên hệ
-- Lê Thanh Trường       :  thanhtruong23111999@gmail.com 
-- Võ Văn Việt           :  vietvo371@gmail.com
-- Nguyễn Ngọc Duy Thái  :  kkdn011@gmail.com
-
 ## 💡Nhà phát triển
 
 - 📧 Email: thanhtruong23111999@gmail.com
@@ -88,5 +83,45 @@ RELIEFLINK sử dụng công nghệ bản đồ và phân tích dữ liệu th�
 
 *" 🏫 DTU_DZ - DUY TAN UNIVERSITY - SCS ✨"*
 
-## 📝 License
-Dự án này được cấp phép theo các điều khoản của giấy phép [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/master/LICENSE)
+## 📞 Liên hệ
+- Lê Thanh Trường       :  <u>thanhtruong23111999@gmail.com</u>
+- Võ Văn Việt           :  <u>vietvo371@gmail.com</u>
+- Nguyễn Ngọc Duy Thái  :  <u>kkdn011@gmail.com</u>
+
+## 📚 Tài liệu
+- [Hướng dẫn cài đặt](https://github.com/Truongpyeo/DTURelifeLink/blob/master/docs/setup.md)
+- [Hướng dẫn đóng góp](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CONTRIBUTING.md)
+
+## 🤝 Đóng góp
+Chúng tôi rất hoan nghênh mọi đóng góp! Xem [CONTRIBUTING](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CONTRIBUTING.md) để biết thêm chi tiết.
+
+## 🔄 Quy trình phát triển
+1. Fork repo này
+2. Tạo branch mới (`git checkout -b feature/AmazingFeature`)
+3. Commit thay đổi (`git commit -m 'Add some AmazingFeature'`)
+4. Push lên branch (`git push origin feature/AmazingFeature`) 
+5. Tạo Pull Request
+
+## 🐛 Báo lỗi
+Nếu bạn phát hiện lỗi, vui lòng tạo issue mới với:
+- Mô tả chi tiết lỗi
+- Các bước tái hiện
+- Screenshots nếu có
+- Môi trường (browser, OS...)
+
+## 📜 Changelog
+Xem [CHANGELOG](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CHANGELOG.md) để biết lịch sử thay đổi.
+
+## ⚖️ Code of Conduct
+Xem [CODE_OF_CONDUCT](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CODE_OF_CONDUCT.md) để biết các quy tắc và hành vi được chấp nhận.
+
+## Báo cáo lỗi & Góp ý
+- Issues: [GitHub Issues](https://github.com/Truongpyeo/DTURelifeLink/issues)
+- Security: Đối với các vấn đề bảo mật nhạy cảm, vui lòng liên hệ trực tiếp qua email: <u>thanhtruong23111999@gmail.com</u>
+
+
+### 📝 License
+Dự án được phân phối dưới giấy phép [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/master/LICENSE)
+
+
+*"Được phát triển với ❤️ bởi Nhóm DTU-DZ"*
