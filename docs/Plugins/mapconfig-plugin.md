@@ -33,21 +33,24 @@ Plugin được phát triển như một phần của ứng dụng trong cuộc 
     <script src="https://cdn.jsdelivr.net/npm/dtuappsmithmap@2.2.20/dist/index.umd.js"></script>
 ```
 
-
-Nếu bạn dùng AppSmith. Điều hướng đến bảng điều khiển Appsmith và chọn ứng dụng mà bạn muốn sử dụng tài nguyên CDN 
-
-- Vào Cài đặt ở góc dưới bên trái của trình soạn thảo Appsmith.
-- Nhấp vào Nâng cao .
-- Trong phần Thư viện JS , hãy thêm URL CDN của bạn vào đây. Ví dụ: plaintext
+### Appsmith
+Thêm URL sau vào Resource của Appsmith:
 ```
-    https://cdn.jsdelivr.net/npm/dtuappsmithmap@2.2.20/dist/index.umd.js
+    https://cdn.jsdelivr.net/npm/dtuappsmithrealtime@1.1.14/dist/index.umd.js
 ```
 
+### Appsmith Setup
+1. Thêm socket.io-client vào Resources của Appsmith:
+```
+    https://cdn.jsdelivr.net/npm/socket.io-client@4.7.2/dist/socket.io.min.js
+```
 
-Bạn có thể sử dụng npm : 
+2. Thêm DTUAppsmithRealtime:
 ```
-    npm i dtuappsmithmap
+    https://cdn.jsdelivr.net/npm/dtuappsmithrealtime@1.1.14/dist/index.esm.js
 ```
+
+Tìm hiểu chi tiết tại [Appsmith](https://docs.appsmith.com/core-concepts/writing-code/ext-libraries#prerequisites)
 
 
 
@@ -220,11 +223,10 @@ const circleOptions = {
 - Nguyễn Ngọc Duy Thái  :  <u>kkdn011@gmail.com</u>
 
 ## 📚 Tài liệu
-- [Hướng dẫn cài đặt](https://github.com/Truongpyeo/DTURelifeLink/blob/master/docs/setup.md)
-- [Hướng dẫn đóng góp](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CONTRIBUTING.md)
+- [Hướng dẫn đóng góp](/CONTRIBUTING.md)
 
 ## 🤝 Đóng góp
-Chúng tôi rất hoan nghênh mọi đóng góp! Xem [CONTRIBUTING](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CONTRIBUTING.md) để biết thêm chi tiết.
+Chúng tôi rất hoan nghênh mọi đóng góp! Xem [CONTRIBUTING](/CONTRIBUTING.md) để biết thêm chi tiết.
 
 ## 🔄 Quy trình phát triển
 1. Fork repo này
@@ -241,10 +243,10 @@ Nếu bạn phát hiện lỗi, vui lòng tạo issue mới với:
 - Môi trường (browser, OS...)
 
 ## 📜 Changelog
-Xem [CHANGELOG](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CHANGELOG.md) để biết lịch sử thay đổi.
+Xem [CHANGELOG](/CHANGELOG.md) để biết lịch sử thay đổi.
 
 ## ⚖️ Code of Conduct
-Xem [CODE_OF_CONDUCT](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CODE_OF_CONDUCT.md) để biết các quy tắc và hành vi được chấp nhận.
+Xem [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md) để biết các quy tắc và hành vi được chấp nhận.
 
 ## Báo cáo lỗi & Góp ý
 - Issues: [GitHub Issues](https://github.com/Truongpyeo/DTURelifeLink/issues)
@@ -252,7 +254,7 @@ Xem [CODE_OF_CONDUCT](https://github.com/Truongpyeo/DTURelifeLink/blob/master/CO
 
 
 ### 📝 License
-Dự án được phân phối dưới giấy phép [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/master/LICENSE)
+Dự án được phân phối dưới giấy phép [MIT License](/LICENSE)
 
 
 *"Được phát triển với ❤️ bởi Nhóm DTU-DZ"*

@@ -32,6 +32,13 @@ const sidebars: SidebarsConfig = {
       ],
     },
     {
+      type: 'category',
+      label: '📩 Service ',
+      items: [
+        'Service/Socket-io-service',
+      ],
+    },
+    {
       type: 'doc',
       id: 'License',
       label: ' 📜 License ',
