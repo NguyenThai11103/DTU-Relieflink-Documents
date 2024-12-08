@@ -30,7 +30,7 @@ Plugin được phát triển như một phần của ứng dụng trong cuộc 
 ### CDN
 
 ```html
-    <script src="https://cdn.jsdelivr.net/npm/dtuappsmithmap@2.2.16/dist/index.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dtuappsmithmap@2.2.20/dist/index.umd.js"></script>
 ```
 
 
@@ -40,7 +40,7 @@ Nếu bạn dùng AppSmith. Điều hướng đến bảng điều khiển Appsm
 - Nhấp vào Nâng cao .
 - Trong phần Thư viện JS , hãy thêm URL CDN của bạn vào đây. Ví dụ: plaintext
 ```
-    https://cdn.jsdelivr.net/npm/dtuappsmithmap@2.2.16/dist/index.umd.js
+    https://cdn.jsdelivr.net/npm/dtuappsmithmap@2.2.20/dist/index.umd.js
 ```
 
 

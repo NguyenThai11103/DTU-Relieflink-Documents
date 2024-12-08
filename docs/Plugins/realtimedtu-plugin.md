@@ -29,7 +29,7 @@ Plugin được phát triển như một phần của ứng dụng trong cuộc 
 ### CDN
 
 ```html
-    <script src="https://cdn.jsdelivr.net/npm/dtuappsmithrealtime@1.1.4/dist/index.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dtuappsmithrealtime@1.1.5/dist/index.umd.js"></script>
 ```
 
 ### Appsmith
@@ -141,6 +141,10 @@ room.leave();
 - Lê Thanh Trường       :  thanhtruong23111999@gmail.com 
 - Võ Văn Việt           :  vietvo371@gmail.com
 - Nguyễn Ngọc Duy Thái  :  kkdn011@gmail.com
+## 💡Nhà phát triển
+- 📧 Email: thanhtruong23111999@gmail.com
+- 📱 Hotline: +84 376 659 652
+
 ## 📄 Giấy Phép
 Dự án được phân phối dưới giấy phép [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/master/LICENSE)
 ## 🤝 Đóng Góp
