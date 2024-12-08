@@ -5,8 +5,8 @@
  DTU Appsmith Realtime Plugin là thư viện realtime Socket.IO cho Appsmith với các chức năng của DTU. Hỗ trợ kết nối realtime, quản lý phòng chat, và xử lý các sự kiện tùy chỉnh.
  
  Bạn có thể xem thêm thông tin tại
- -  GITHUB : [Mapconfig Appsmith Plugin](https://github.com/Truongpyeo/DTUAppSmithMap)
- -  NPM : [Mapconfig Appsmith Plugin](https://www.npmjs.com/package/dtuappsmithmap)
+  -  GITHUB : [Realtime Appsmith Plugin](https://github.com/Truongpyeo/dtuappsmithrealtime)
+ -  NPM : [Realtime Appsmith Plugin](https://www.npmjs.com/package/dtuappsmithrealtime/v/1.1.5)
 ### 🏆 Bối Cảnh
 Plugin được phát triển như một phần của ứng dụng trong cuộc thi Mã Nguồn Mở năm 2024.
 
