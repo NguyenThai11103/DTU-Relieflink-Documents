@@ -25,22 +25,21 @@ Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở-Olym
 
 - 🚨 Hỗ trợ cứu nạn thông minh: Chúng tôi tin rằng mỗi giây phút đều quan trọng trong tình huống khẩn cấp. Hệ thống của chúng tôi tích hợp công nghệ tiên tiến, giúp phản ứng nhanh chóng và chính xác như một đội cứu hộ chuyên nghiệp! Từ việc xác định nhu cầu cứu trợ đến kết nối với các dịch vụ khẩn cấp, RELIEFLINK đảm bảo rằng không ai bị bỏ lại phía sau.
 
-- 🎯 Quản lý nguồn lực hiệu quả: Giống như có một chuyên gia logistics bên cạnh, RELIEFLINK tối ưu hóa việc phân phối nguồn lực cứu trợ, đảm bảo sự hỗ trợ đến đúng nơi, đúng lúc. Với khả năng phân tích tình hình và đánh giá hiệu quả cứu trợ, chúng tôi giúp bạn quản lý tài nguyên một cách thông minh và bền vững.
+- 🎯 Quản lý nguồn lực hiệu quả: RELIEFLINK tối ưu hóa việc phân phối nguồn lực cứu trợ, đảm bảo sự hỗ trợ đến đúng nơi, đúng lúc. Với khả năng phân tích tình hình và đánh giá hiệu quả cứu trợ, chúng tôi giúp bạn quản lý tài nguyên một cách thông minh và bền vững.
 
-- ⚡ Cảnh báo sớm thông minh: Biến thông tin thành hành động với hệ thống cảnh báo sớm tiên tiến. Theo dõi và dự báo thảm họa theo thời gian thực để bảo vệ cộng đồng! Hệ thống thông báo khẩn cấp chúng tôi giúp bạn luôn sẵn sàng ứng phó với mọi tình huống, từ thiên tai đến các sự kiện bất ngờ.
+- ⚡ Cảnh báo sớm thông minh: Theo dõi và dự báo thảm họa theo thời gian thực để bảo vệ cộng đồng! Hệ thống thông báo khẩn cấp chúng tôi giúp bạn luôn sẵn sàng ứng phó với mọi tình huống, từ thiên tai đến các sự kiện bất ngờ.
 
-- 🤝 Kết nối cộng đồng mạnh mẽ: Xây dựng mạng lưới hỗ trợ rộng khắp với nền tảng kết nối tình nguyện viên và nguồn lực. Cùng nhau, chúng ta mạnh mẽ hơn! RELIEFLINK không chỉ là một công cụ, mà còn là cầu nối giữa những người cần giúp đỡ và những người sẵn sàng hỗ trợ, tạo nên một cộng đồng đoàn kết và vững mạnh.
+- 🤝 Kết nối cộng đồng mạnh mẽ: Xây dựng mạng lưới hỗ trợ rộng khắp với nền tảng kết nối tình nguyện viên và nguồn lực. RELIEFLINK không chỉ là một công cụ, mà còn là cầu nối giữa những người cần giúp đỡ và những người sẵn sàng hỗ trợ, tạo nên một cộng đồng đoàn kết và vững mạnh.
 
 - 🌍 Tầm nhìn dài hạn: RELIEFLINK không chỉ dừng lại ở việc cứu trợ khẩn cấp mà còn hướng tới tái thiết và phục hồi sau thảm họa. Với sự tích hợp của công nghệ tiên tiến như IoT và phân tích dữ liệu lớn, chúng tôi cam kết mang lại sự phát triển bền vững và an toàn cho cộng đồng trên toàn thế giới.
 
 ## 🎯 Mục tiêu 
 -  **Tăng cường hiệu quả cứu trợ**: Cung cấp công cụ để theo dõi, phân phối và quản lý tài nguyên cứu trợ (thực phẩm, nước, thuốc men, v.v.) một cách nhanh chóng và chính xác, đảm bảo các đội cứu hộ có thể đáp ứng nhu cầu kịp thời.
 
--  **Ứng dụng công nghệ bản đồ**: Sử dụng bản đồ trực tuyến để xác định và hiển thị các khu vực bị ảnh hưởng, từ đó hỗ trợ việc phân phối tài nguyên và điều phối các đội cứu hộ một cách hiệu quả.
-
 -  **Phân tích dữ liệu và đưa ra quyết định**: Thu thập và phân tích dữ liệu từ các nguồn khác nhau để đưa ra các quyết định kịp thời về việc phân phối tài nguyên, điều động lực lượng cứu hộ và tối ưu hóa các hoạt động cứu trợ.
 
 - **Tăng cường phối hợp và điều phối**: Cung cấp các giao diện dễ sử dụng để các đơn vị cứu hộ có thể phối hợp với nhau, đảm bảo hoạt động cứu trợ diễn ra thông suốt và hiệu quả trong mọi tình huống.
+
 - **Giảm thiểu thời gian phản ứng**: Cải thiện thời gian phản ứng của các đội cứu hộ, giúp giảm thiểu thiệt hại và nâng cao khả năng phục hồi của cộng đồng sau thảm họa.
 - **Cải thiện khả năng tiếp cận và hỗ trợ cộng đồng**: Xây dựng các tính năng đặc biệt để đảm bảo các nhóm người dễ bị tổn thương như người già, trẻ em, người khuyết tật nhận được sự hỗ trợ kịp thời và công bằng. 
 

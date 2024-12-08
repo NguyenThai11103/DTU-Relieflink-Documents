@@ -4,8 +4,6 @@ Thiết kế theo kiến trúc như hình vẽ bên dưới:
 ![s](../static/img/Achitecture.png)
 
 
-
-
 ## 🕹️ Các thành phần chính và chức năng:
 
         - Appsmith: Là nền tảng cốt lõi, tạo các giao diện người dùng (UI) dễ dàng 
