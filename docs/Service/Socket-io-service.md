@@ -6,8 +6,8 @@ Socket.io Service là một service cho nền tảng AppSmith
  
  
  Bạn có thể xem thêm thông tin tại
- -  GITHUB : [Socket.io Service](https://github.com/Truongpyeo/DTUAppSmithMap)
- -  NPM : [Socket.io Service](https://www.npmjs.com/package/dtuappsmithmap)
+ -  GITHUB : [Socket.io Service](https://github.com/Truongpyeo/DTUServerSocket)
+ -  NPM : [Socket.io Service](https://www.npmjs.com/package/appsmith-socketio)
 ### 🏆 Bối Cảnh
 Service được phát triển như một phần của ứng dụng trong cuộc thi Mã Nguồn Mở năm 2024.
 
