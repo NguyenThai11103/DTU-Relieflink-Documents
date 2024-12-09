@@ -150,7 +150,8 @@ Nếu bạn muốn sử dụng MongoDB Atlas riêng:
 - [Hướng dẫn cài đặt](https://github.com/Truongpyeo/DTURelifeLink/blob/master/docs/setup.md)
 
 ## 🤝 Đóng góp
-Chúng tôi rất hoan nghênh mọi đóng góp! Xem [CONTRIBUTING](/CONTRIBUTING.md) để biết thêm chi tiết.
+Chúng tôi rất hoan nghênh mọi đóng góp! Xem [CONTRIBUTING](https://github.com/NguyenThai11103/DTU-Relieflink-documents/blob/main/CONTRIBUTING.md
+) để biết thêm chi tiết.
 
 ## 🔄 Quy trình phát triển
 1. Fork repo này
@@ -167,10 +168,10 @@ Nếu bạn phát hiện lỗi, vui lòng tạo issue mới với:
 - Môi trường (browser, OS...)
 
 ## 📜 Changelog
-Xem [CHANGELOG](/CHANGELOG.md) để biết lịch sử thay đổi.
+Xem [CHANGELOG](https://github.com/NguyenThai11103/DTU-Relieflink-documents/blob/main/CHANGELOG.md) để biết lịch sử thay đổi.
 
 ## ⚖️ Code of Conduct
-Xem [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md) để biết các quy tắc và hành vi được chấp nhận.
+Xem [CODE_OF_CONDUCT](https://github.com/NguyenThai11103/DTU-Relieflink-documents/blob/main/CODE_OF_CONDUCT.md) để biết các quy tắc và hành vi được chấp nhận.
 
 ## Báo cáo lỗi & Góp ý
 - Issues: [GitHub Issues](https://github.com/Truongpyeo/DTURelifeLink/issues)
@@ -178,7 +179,8 @@ Xem [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md) để biết các quy tắc và hành
 
 
 ### 📝 License
-Dự án được phân phối dưới giấy phép [MIT License](/LICENSE)
+Dự án được phân phối dưới giấy phép [MIT License](https://github.com/NguyenThai11103/DTU-Relieflink-documents/blob/main/LICENSE
+)
 
 
 *"Được phát triển với ❤️ bởi Nhóm DTU-DZ"*

@@ -13,7 +13,8 @@
   Mục tiêu của dự án là phát triển một hệ thống dựa trên `nền tảng LCDP` để hỗ trợ cứu nạn cứu trợ khẩn cấp, quản lý nguồn lực cứu trợ và quản lý tái thiết sau thảm họa.
 
 Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Olympic Tin học Sinh viên Việt Nam 2024](https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F)
-. Được open source theo giấy phép [MIT License](/LICENSE) bởi đội tác giả DTU_DZ.
+. Được open source theo giấy phép [MIT License](https://github.com/NguyenThai11103/DTU-Relieflink-documents/blob/main/LICENSE
+) bởi đội tác giả DTU_DZ.
 
 **`RELIEFLINK`** Dự án cứu nạn khẩn cấp nhằm xây dựng một hệ thống hiệu quả để cung cấp các dịch vụ cứu trợ khẩn cấp và quản lý tài nguyên trong các tình huống thảm họa. Hệ thống này sử dụng công nghệ bản đồ để theo dõi và phân phối tài nguyên như thực phẩm, nước, và thuốc men, giúp các đội cứu hộ phản ứng nhanh chóng và chính xác. Các tính năng của hệ thống bao gồm việc tự động phân phối tài nguyên theo nhu cầu và vị trí, cung cấp giao diện người dùng thân thiện dựa trên `NỀN TẢNG LCDP` để quản lý và điều phối hoạt động cứu hộ, đồng thời phân tích dữ liệu thời gian thực để đưa ra các quyết định kịp thời. Mục tiêu của dự án là tối ưu hóa quy trình cứu trợ, giảm thiểu thời gian phản ứng và đảm bảo rằng các nạn nhân nhận được sự hỗ trợ kịp thời nhất.
 
@@ -119,7 +120,8 @@ Với những tiềm năng này, dự án có thể trở thành một nền t�
 - [Hướng dẫn cài đặt](https://github.com/Truongpyeo/DTURelifeLink/blob/master/docs/setup.md)
 
 ## 🤝 Đóng góp
-Chúng tôi rất hoan nghênh mọi đóng góp! Xem [CONTRIBUTING](/CONTRIBUTING.md) để biết thêm chi tiết.
+Chúng tôi rất hoan nghênh mọi đóng góp! Xem [CONTRIBUTING](https://github.com/NguyenThai11103/DTU-Relieflink-documents/blob/main/CONTRIBUTING.md
+) để biết thêm chi tiết.
 
 ## 🔄 Quy trình phát triển
 1. Fork repo này
@@ -136,10 +138,11 @@ Nếu bạn phát hiện lỗi, vui lòng tạo issue mới với:
 - Môi trường (browser, OS...)
 
 ## 📜 Changelog
-Xem [CHANGELOG](/CHANGELOG.md) để biết lịch sử thay đổi.
+Xem [CHANGELOG](https://github.com/NguyenThai11103/DTU-Relieflink-documents/blob/main/CHANGELOG.md) để biết lịch sử thay đổi.
 
 ## ⚖️ Code of Conduct
-Xem [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md) để biết các quy tắc và hành vi được chấp nhận.
+Xem [CODE_OF_CONDUCT](https://github.com/NguyenThai11103/DTU-Relieflink-documents/blob/main/CODE_OF_CONDUCT.md
+) để biết các quy tắc và hành vi được chấp nhận.
 
 ## Báo cáo lỗi & Góp ý
 - Issues: [GitHub Issues](https://github.com/Truongpyeo/DTURelifeLink/issues)
@@ -147,7 +150,8 @@ Xem [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md) để biết các quy tắc và hành
 
 
 ### 📝 License
-Dự án được phân phối dưới giấy phép [MIT License](/LICENSE)
+Dự án được phân phối dưới giấy phép [MIT License](https://github.com/NguyenThai11103/DTU-Relieflink-documents/blob/main/LICENSE
+)
 
 *"Được phát triển với ❤️ bởi Nhóm DTU-DZ"*
 
